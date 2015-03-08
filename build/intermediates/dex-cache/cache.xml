@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bryan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1183b9bbb82c48ce6b52719d4b9fc6b13665cfbe.jar" />
+    </item>
+    <item
+        jar="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/pre-dexed/debug/classes-2b341b1f8e0beffa4fc34d363db91cca595b5c29.jar" />
+    </item>
+    <item
+        jar="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/pre-dexed/debug/classes-c5654cef4f10f951c444ed143eafb26d957c140d.jar" />
+    </item>
+    <item
+        jar="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/bryan/AndroidStudioProjects/ChatApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-087694075ebd5558583b60b115166f97cbaf780e.jar" />
+    </item>
+
+</items>
