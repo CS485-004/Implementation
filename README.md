@@ -5,3 +5,5 @@ So far this application just has a main activity with a list and detail pane alo
 Added an action bar with a search button and new conversation buttton that currently do nothing.
 
 Added a settings which it is not currently possible to see or interact with in the app.
+
+*just testing editing*
